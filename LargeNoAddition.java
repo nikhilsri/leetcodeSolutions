@@ -61,7 +61,6 @@ public class LargeNoAddition {
         }
         return formattedResult;
     }
-
     public static String fibonacci(int n) {
 
         if (n <= 2) {
