@@ -10,7 +10,6 @@ package com.ameyo.configuration.services.dagenturiresolver;
  *
  */
 public class maxProduct {
-
     public static void main(String[] args) {
 
         int[] nums = {3, 1, 4, 2, -5, 7};
