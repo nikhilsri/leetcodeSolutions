@@ -9,7 +9,6 @@ package com.ameyo.configuration.services.dagenturiresolver;
 /**
  *
  */
-
 public class MaxProductSubarray {
 
     static class Result {
